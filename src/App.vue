@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+  更新了
     <ComHeader />
     <SubTitle />
     <SubStatus />
